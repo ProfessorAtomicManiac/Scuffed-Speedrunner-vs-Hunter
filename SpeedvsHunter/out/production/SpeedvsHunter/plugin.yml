@@ -1,0 +1,9 @@
+main: me.thenyahpatriarch.SpeedvsHunter.Main
+name: SpeedvsHunter
+version: 0.8
+author: TheNyahPatriarch
+api-version: 1.13
+
+commands:
+  track:
+  death:
